@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: shilpa
+  profile:
+    displayName: shilpa kondawar
+    email: shilpakondawar@gmail.com
+    picture: 
+spec:
+  memberOf: [thoughtworks, awesome-project]
